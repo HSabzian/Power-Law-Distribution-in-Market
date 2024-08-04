@@ -1,4 +1,6 @@
 
+![Empirical distribution interface](https://github.com/user-attachments/assets/1ec43328-b8f2-44c3-985a-aa279a942397)
+
 ## Power Law Distribution in Financial Markets
 
 A power law distribution is a statistical distribution where the frequency of an event scales with the size of the event raised to a constant power. Mathematically, this is expressed as:
@@ -25,4 +27,6 @@ In the context of financial markets, particularly in the number of buyers of a s
 ### Summary
 
 Power law distributions in the number of buyers of a stock can occur due to the heterogeneity of market participants, feedback mechanisms, herd behavior, and network effects. Understanding these factors provides insights into the dynamics of financial markets and helps in predicting market behavior and potential volatility.
+
+
 
