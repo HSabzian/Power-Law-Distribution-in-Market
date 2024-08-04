@@ -1,8 +1,11 @@
 
-
 ## Power Law Distribution in Financial Markets
 
-A power law distribution is a statistical distribution where the frequency of an event scales with the size of the event raised to a constant power. Mathematically, this is expressed as \( P(x) \sim x^{-\alpha} \), where \( P(x) \) is the probability of observing an event of size \( x \), and \( \alpha \) is a positive constant known as the exponent. In a power law distribution, a small number of events occur with high frequency, while a large number of events occur with low frequency, resulting in a long tail.
+A power law distribution is a statistical distribution where the frequency of an event scales with the size of the event raised to a constant power. Mathematically, this is expressed as:
+
+\[ P(x) \sim x^{-\alpha} \]
+
+where \( P(x) \) is the probability of observing an event of size \( x \), and \( \alpha \) is a positive constant known as the exponent. In a power law distribution, a small number of events occur with high frequency, while a large number of events occur with low frequency, resulting in a long tail.
 
 ### Power Law Distribution in the Number of Buyers of a Stock
 
