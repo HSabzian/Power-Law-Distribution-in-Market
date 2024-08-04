@@ -1,6 +1,6 @@
 
 ![Empirical distribution interface](https://github.com/user-attachments/assets/1ec43328-b8f2-44c3-985a-aa279a942397)
-
+This model shows how buy orders of a typical stock can gradually exhibit a power low distribution where a few own large portion of stocks while many only possess a very small portion.
 ## Power Law Distribution in Financial Markets
 
 A power law distribution is a statistical distribution where the frequency of an event scales with the size of the event raised to a constant power. Mathematically, this is expressed as:
